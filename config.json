@@ -1,0 +1,6 @@
+﻿{
+  "optimal_threshold": 0.4,
+  "expected_recall": 0.9104,
+  "expected_precision": 0.7011,
+  "selection_reason": "meets_constraints"
+}
